@@ -1,0 +1,13 @@
+Hammam-Evan-lab12/:
+total 52
+-rw-r--r--. 1 myid    17 Apr 24 19:13 input1.txt
+-rw-r--r--. 1 myid    18 Apr 24 19:13 input2.txt
+-rw-r--r--. 1 myid    46 Apr 24 19:13 input3.txt
+-rw-r--r--. 1 myid  2225 Apr 25 16:18 lab12.c
+-rwxr-xr-x. 1 myid 16592 Apr 25 16:18 lab12.out
+-rw-r--r--. 1 myid   143 Apr 25 14:27 Makefile
+-rw-r--r--. 1 myid   297 Apr 25 13:56 output2.txt
+-rw-r--r--. 1 myid   272 Apr 25 14:29 README
+-rw-r--r--. 1 myid     0 Apr 25 16:21 rec25797
+-rw-r--r--. 1 myid   531 Apr 25 14:37 rec28808
+/home/myid/ehh67855/cs1730/labs/Hammam-Evan-lab12/:/home/myid/csci-1730
